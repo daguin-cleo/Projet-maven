@@ -94,10 +94,6 @@
 
 		</plugins>
 	</reporting>
-	
-	<scm>
-		<connection>scm:git:https://github.com/daguin-cleo/Projet-maven.git</connection>
-		<url>https://github.com/daguin-cleo/Projet-maven.git</url>
-	</scm>
+
 
 </project>
